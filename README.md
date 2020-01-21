@@ -1,1 +1,1 @@
-# pands-init
+# pns-init
