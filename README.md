@@ -1,8 +1,8 @@
 # pns-init
 
-Problems 2020
+#Problems 2020
 
-Programming and Scripting
+#Programming and Scripting
 
 Weekly task 2 - BMI.py
 Write a program that calculates somebody's Body Mass Index (BMI). The inputs are the person's height in centimetres and weight in kilograms. The output is their weight divided by their height in metres squared.
