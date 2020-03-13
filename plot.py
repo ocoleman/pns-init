@@ -17,3 +17,6 @@ plt.legend()
 plt.title("f(x)=x, g(x)=x2 and h(x)=x3")
 plt.xlabel("x")
 plt.ylabel("y")
+
+plt.savefig("plot.png")
+plt.clf()
