@@ -10,7 +10,7 @@ import math
 num = abs(float(input("Please enter a positive number: ")))
 
 def sqrt(num):
-   return round(math.sqrt(num), 1)
+   return round(num**(1/2), 1)
 
 
 print("The square root of", num, "is approx.", sqrt(num))
